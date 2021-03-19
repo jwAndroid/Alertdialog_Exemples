@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AlertdialogExemples</string>
+    <string name="title_activity_sub">SubActivity</string>
+
+    <string-array name = "LAN">
+
+        <item>"Android"</item>
+        <item>"Java"</item>
+        <item>"C/C++"</item>
+
+    </string-array>
+
+
+
+</resources>
